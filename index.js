@@ -1,6 +1,6 @@
 const gallery = document.getElementById('gallery');
 
-for (let i = 1; i <= 534; i++) {
+for (let i = 1; i <= 545; i++) {
     const number = i.toString().padStart(4, '0');
 
     const photo = document.createElement('a');
